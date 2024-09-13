@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: guestbook
-        image: zialectical/guestbook:v1
+        image: your-docker-username/guestbook:v1
         ports:
         - containerPort: 3000
 ---
